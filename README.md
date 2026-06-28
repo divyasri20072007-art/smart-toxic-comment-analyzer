@@ -173,12 +173,3 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-> *Built with ❤️ as a portfolio project for AI/ML engineering roles.*
